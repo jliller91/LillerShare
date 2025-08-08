@@ -66,4 +66,3 @@
 - Shift Left clicking things offer A LOT of options with RuneLite. This is how you use the Menu Entry Swapper and also highlight Tiles/NPCs/Monsters
 - You can click the orb on your minimap that looks like a boot to toggle running/walker. You have a set amount of run energy (Agility, memmbers skill, makes this better) CTRL + Click to Run or Walk, which is opposite of your currently selected.
 - The Prayer Orb near the Run orb works similarly. You can right click and have a preset prayer. Then clicking it will toggle that on and off
--
