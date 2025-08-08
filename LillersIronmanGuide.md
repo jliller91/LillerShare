@@ -12,6 +12,7 @@
     - Menu Entry Swapper - Lets you swap around what you're left click defaults to for everything, Huge QOL for certain activities
     - GPU - comes with Runelite I think, just enable it and change render distance etc to your liking
     - Quest Helper - If you want a very guided experience for quests
+    - 117 HD - I don't use it but apparently is nice for updated graphics
     - Door Kicker - Makes you kick doors open, most important one on the list
     - Logout Timer - Can make it so you can AFK longer before being force logged
     - Almost every activity (minigame like thing for XP and rewards, Tempeross the fishing boss for example) has specific plugins you can download to make things easier to track. Just search plugins for whatever you're doing
