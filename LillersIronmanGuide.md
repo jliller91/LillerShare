@@ -36,11 +36,14 @@
     - The only minigame Im aware of for F2P is Castle Wars, I loved this when I used to play originally but havent since. It's a PVP team vs team game. Could be fun to do as a group :D
 ## Free to Play Goals
 - Complete Stronghold of Security (Get good boots and 10,000 GP)
-- Dragon Slayer - This is the final F2P Quest and most difficult. Pretty much all of the other quests you do and skills you train lead up to killing a dragon. It's a classic and it's a good goal to shoot for. If you make it here and decide you like the game enough this is a great time to go P2P
+- Dragon Slayer - This is the final F2P Quest and most difficult. Pretty much all of the other quests you do and skills you train lead up to killing a dragon. It's a classic and it's a good goal to shoot for. If you make it here and decide you like the game enough, this is a great time to go P2P
 
 ## P2P Goals
- - Recipe for Disaster Quest for Barrows Glove (best in slot melee, range, mage glove FOR A LONG TIME)
-- I'll write up more detailed if ya'll end up getting a subscription (you totally should) :) 
+- A few agility levels early goes A LONG way ( Can get this in Draynor Village)
+- A Porcine of Interest Quest + Varrock History Quiz for early Slayer bump
+- Waterfall Quest + Fight Arena gets you to around 40 Attack for FREE
+- Recipe for Disaster Quest for Barrows Glove (best in slot melee, range, mage glove FOR A LONG TIME)
+- I'll write up more details if ya'll end up getting a subscription (you totally should) :) 
 	
 ## General Info
 - Click the WIKI banner at the bottom right of your Minimap and click an item/NPC to quick open the wiki. VERY USEFUL PLEASE USE
